@@ -1,4 +1,4 @@
-package co.edu.unicauca.openmarket.domain;
+package co.unicauca.openmarket.commons.domain;
 
 /**
  *
